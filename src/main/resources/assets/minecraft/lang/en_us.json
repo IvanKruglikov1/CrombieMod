@@ -1,0 +1,16 @@
+  {
+    "entity.minecraft.zombie": "Crombie",
+    "entity.minecraft.zombie_villager": "Crombie Villager",
+    "entity.minecraft.zombified_piglin": "Crombified Piglin",
+    "entity.minecraft.husk": "Desert Crombie",
+    "entity.minecraft.drowned": "Drowned Crombie",
+    "entity.minecraft.zombie_horse": "Crombie Horse",
+  
+    "item.minecraft.zombie_spawn_egg": "Crombie Spawn Egg",
+    "item.minecraft.zombie_villager_spawn_egg": "Crombie Villager Spawn Egg",
+    "item.minecraft.zombified_piglin_spawn_egg": "Crombified Piglin Spawn Egg",
+    "item.minecraft.husk_spawn_egg": "Desert Crombie Spawn Egg",
+    "item.minecraft.drowned_spawn_egg": "Drowned Crombie Spawn Egg",
+    "item.minecraft.zombie_horse_spawn_egg": "Crombie Horse Spawn Egg"
+  }
+  

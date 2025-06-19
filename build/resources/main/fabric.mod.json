@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "crombie",
+	"version": "1.0.0",
+	"name": "CrombieMod",
+	"description": "Replaces all zombies with Crombies!",
+	"icon": "assets/modid/icon.png",
+	"authors": [ "MrBatonMC" ],
+	"contact": {},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+	  "main": [ "com.example.crombiemod.CrombieMod" ]
+	},
+	"depends": {
+	  "fabricloader": ">=0.16.12",
+	  "minecraft": "1.21.5",
+	  "fabric": "*"
+	}
+  }
+  

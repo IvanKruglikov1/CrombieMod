@@ -1,0 +1,15 @@
+{
+  "entity.minecraft.zombie": "Кромби",
+  "entity.minecraft.zombie_villager": "Кромби-житель",
+  "entity.minecraft.zombified_piglin": "Кромбифицированный пиглин",
+  "entity.minecraft.husk": "Пустынный кромби",
+  "entity.minecraft.drowned": "Утонувший кромби",
+  "entity.minecraft.zombie_horse": "Кромби-лошадь",
+
+  "item.minecraft.zombie_spawn_egg": "Яйцо призыва кромби",
+  "item.minecraft.zombie_villager_spawn_egg": "Яйцо призыва кромби-жителя",
+  "item.minecraft.zombified_piglin_spawn_egg": "Яйцо призыва кромбифицированного пиглина",
+  "item.minecraft.husk_spawn_egg": "Яйцо призыва пустынного кромби",
+  "item.minecraft.drowned_spawn_egg": "Яйцо призыва утонувшего кромби",
+  "item.minecraft.zombie_horse_spawn_egg": "Яйцо призыва кромби-лошади"
+}
